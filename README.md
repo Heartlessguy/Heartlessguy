@@ -1,16 +1,23 @@
 ### Hi there 👋
+My name is Alexandr, i'm DevOps Engineer at Elcomplus.
+In past i was a dotnet developer.
 
+### 🔧 Tools i use:
+
+![](https://img.shields.io/badge/Linux-_-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Windows-_-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/lang-csharp-purple?style=flat-square&bgcolor=110d17)
+![](https://img.shields.io/badge/lang-python-purple?style=flat-square&bgcolor=110d17)
+![](https://img.shields.io/badge/_-bash-yellow?style=flat-square&bgcolor=110d17)
+![](https://img.shields.io/badge/_-powershell-yellow?style=flat-square&bgcolor=110d17)
+![](https://img.shields.io/badge/_-docker-yellow?style=flat-square&logo=docker&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/_-terraform-yellow?style=flat-square&logo=terraform&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/_-kubernetes-yellow?style=flat-square&logo=kubernetes&logoColor=white&color=5194f0&bgcolor=110d17)
+
+### 📫 Contact me:
+[![](https://img.shields.io/badge/_-vk-grey?style=flat-square&logo=vk&logoColor=white)](http://vk.com/alex_kruddinger)
 <!--
-**Heartlessguy/Heartlessguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![](https://img.shields.io/badge/_-tg-grey?style=flat-square&logo=telegram&logoColor=white)]()
+[![](https://img.shields.io/badge/_-website-grey?style=flat-square&logo=headspace&logoColor=white)]()
 -->
+
