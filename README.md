@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Alexandr, i'm DevOps Engineer at Elcomplus.
-In past i was a dotnet developer.
+My name is Alexandr, i'm DevOps Engineer.
+I used to be a dotnet developer, then i ~~took an arrow in the knee~~ became interested in ops thingies, now i'm here.
 
 ### 🔧 Tools i use:
 
