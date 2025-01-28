@@ -16,5 +16,4 @@ I used to be a dotnet developer, then i ~~took an arrow in the knee~~ became int
 ![](https://img.shields.io/badge/_-kubernetes-yellow?style=flat-square&logo=kubernetes&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ### 📫 Contact me:
-[![](https://img.shields.io/badge/_-vk-grey?style=flat-square&logo=vk&logoColor=white)](http://vk.com/alex_kruddinger)
 [![](https://img.shields.io/badge/_-telegram-grey?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AwkwardHeretic)
